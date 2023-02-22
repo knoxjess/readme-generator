@@ -17,7 +17,6 @@
   
   ## Installation
   
-    * [Installation](#installation)
 Copy Link: within this GitHub repo copy link
 Clone: Within GitBash, use the command "git clone paste link here"
 NPM: Use the command "npm init -y" to install Node Package Manager
@@ -30,17 +29,8 @@ Inquirer: Use the command "npm install inquirer" to get npm's inquirer package
   ```
   
 
-
  enter the necessary information for your project
-* [License](#license)
-
-  * [Contributing](#contributing)
   
-  * [Tests](#tests)
-  
-  * [Questions](#questions)
-  
-
   ## License
 
 This project is licensed under the MIT license.
