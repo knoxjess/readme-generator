@@ -12,7 +12,8 @@
   * [Usage](#usage)
  the directory for this project, initialize prompts using the command "node index.js
   
-  
+    [Untitled_ Feb 21, 2023 10_22 PM.webm](https://user-images.githubusercontent.com/110634800/220521653-43d7a752-f6b9-456b-ac6a-55a94d46fcd3.webm)
+
   ## Table of Contents 
   
   ## Installation
@@ -46,7 +47,6 @@ This project is licensed under the MIT license.
   ```
   npm test
   ```
-  [Untitled_ Feb 21, 2023 10_22 PM.webm](https://user-images.githubusercontent.com/110634800/220521653-43d7a752-f6b9-456b-ac6a-55a94d46fcd3.webm)
 
   ## Questions
   
